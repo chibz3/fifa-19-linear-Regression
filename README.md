@@ -56,3 +56,5 @@ I was able to fit my model to R square greater that 0.90 and root mean square er
 
 # Moving Forward
 FIFA does alot of work to mold a players real world physical  and mental attribute into the game. Moving forward my hope is that I can use this insight I got about different Important Atributes FIFA uses to determine Player values to Apply it to real world player values. I believe if one is able to capture cetain attributes and informtion about a player in the real world, in conjuction with real world Market pointers, One can predict actual player Market Value
+# Presentation
+https://github.com/chibz3/fifa-project/blob/master/fifa-project_presentation%20.pdf
