@@ -4,7 +4,7 @@ Flatiron Module 2 Linear regression Project
 
 # Project Overview
 
-Working with the FIFA 19 video game data, I'll be analyzing, the different aspects of the players game atributes to build a linear regression model that would predicit market value of the players in the top 5 leagues in Europe. The English, German, French, Italian and Spanish leagues.
+Working with the FIFA 19 video game data, I'll be analyzing, the different aspects of the players game atributes to build a linear regression model that would predicit market value of the players in the top 5 leagues in Europe. The English, German, French, Italian and Spanish leagues. 
 
 # Approch
 
@@ -53,3 +53,6 @@ I went on the sepreate my data set to outfield players and Goalkeepers and fit t
 
 # Conclusion
 I was able to fit my model to R square greater that 0.90 and root mean square error within 0.4 of the standard devation of the test sample, which was a very good model.
+
+# Moving Forward
+FIFA does alot of work to mold a players real world physical  and mental attribute into the game. Moving forward my hope is that I can use this insight I got about different Important Atributes FIFA uses to determine Player values to Apply it to real world player values. I believe if one is able to capture cetain attributes and informtion about a player in the real world, in conjuction with real world Market pointers, One can predict actual player Market Value
